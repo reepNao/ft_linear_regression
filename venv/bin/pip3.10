@@ -1,4 +1,4 @@
-#!/Users/rbattal/Desktop/linear_regression/venv/bin/python3.10
+#!/goinfre/rbattal/linear/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -3,9 +3,7 @@ import  sys
 import  os.path
 import  matplotlib.pyplot as plt
 
-class linear_regression :
-
-
+class linear_regression:
     def __init__(self) :
 
         self.open_file()
